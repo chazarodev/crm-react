@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "El Peluca Sape",
+      "empresa": "Radio Garka",
+      "email": "peluca@garka.com",
+      "telefono": "5534627167",
+      "notas": "El peluca Sape!!",
+      "id": 1
+    },
+    {
+      "nombre": "Alberto Cházaro",
+      "empresa": "Grupo Cinemex",
+      "email": "alberto@gmail.com",
+      "telefono": "5534641765",
+      "notas": "Desarrollador React Full Stack",
+      "id": 3
+    },
+    {
+      "nombre": "David",
+      "empresa": "VelvetMoon",
+      "email": "argoz@gmail.com",
+      "telefono": "5546467743",
+      "notas": "Tremendo CDT",
+      "id": 4
+    },
+    {
+      "nombre": "Iván Órtiz",
+      "empresa": "Tatto Iris",
+      "email": "ivanox14@gmail.com",
+      "telefono": "5589007865",
+      "notas": "Huy",
+      "id": 5
+    },
+    {
+      "nombre": "Iris Mendoza",
+      "empresa": "Tattoo Iris",
+      "email": "iris@hotmail.com",
+      "telefono": "5589002311",
+      "notas": "Realiza Tatuajes",
+      "id": 6
+    }
+  ]
+}
